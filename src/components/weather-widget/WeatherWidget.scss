@@ -1,0 +1,23 @@
+.weather-widget{
+    text-align: center;
+
+    &__info{}
+
+    .card{
+        max-width: 200px;
+        margin: auto;
+    }
+}
+
+#temp:after{
+    content: ' \00B0 ';
+}
+.temp{
+    margin-left: 0.5em;
+    cursor: pointer;
+    color: #006dcc;
+
+    &:hover{
+        color: #005096;
+    }
+}
