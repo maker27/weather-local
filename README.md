@@ -2,4 +2,4 @@
 
 React + Typescript
 
-### https://maker27.github.io/weather-local
+### https://maker27.github.io/weather-local/
